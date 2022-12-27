@@ -10,3 +10,8 @@ Anggota:
 5. Wildan Mauli Darojat (2106330)
 
 Sumber Dataset: https://www.tensorflow.org/datasets/catalog/beans
+
+Data dapat diperoleh di sini: 
+- Train --> https://storage.googleapis.com/ibeans/train.zip
+- Validation --> https://storage.googleapis.com/ibeans/validation.zip
+- Test --> https://storage.googleapis.com/ibeans/test.zip
