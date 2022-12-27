@@ -15,3 +15,6 @@ Data dapat diperoleh di sini:
 - Train --> https://storage.googleapis.com/ibeans/train.zip
 - Validation --> https://storage.googleapis.com/ibeans/validation.zip
 - Test --> https://storage.googleapis.com/ibeans/test.zip
+
+Link Google Collab:
+https://colab.research.google.com/drive/1C4YI81WpKQ46MTCti3R89HtapqFii0PC?usp=sharing
