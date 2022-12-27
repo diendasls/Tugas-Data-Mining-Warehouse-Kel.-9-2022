@@ -8,3 +8,5 @@ Anggota:
 3. Farah Balqist (2007339)
 4. Sukma Julianti (2009110)
 5. Wildan Mauli Darojat (2106330)
+
+Sumber Dataset: https://www.tensorflow.org/datasets/catalog/beans
