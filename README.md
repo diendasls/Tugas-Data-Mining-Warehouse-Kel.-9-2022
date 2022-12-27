@@ -1,5 +1,7 @@
 # Tugas-Data-Mining-Warehouse-Kel.-9-2022
 
+DEEP LEARNING
+
 Anggota:
 1. Adinda Salsabilla (2005319)
 2. Alif Faturahman Firdaus (2107377)
